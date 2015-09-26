@@ -1,6 +1,27 @@
 {
   "name": "site",
   "devDependencies": {
-    "browser-sync": "2.9.6"
-  }
+    "browser-sync": "^2.9.6",
+    "gulp": "^3.9.0"
+  },
+  "description": "README",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.9.6",
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashadaboo/DZ1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashadaboo/DZ1/issues"
+  },
+  "homepage": "https://github.com/dashadaboo/DZ1#readme"
 }
